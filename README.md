@@ -14,9 +14,10 @@
 [https://dmprtfolio.herokuapp.com/](https://dmprtfolio.herokuapp.com/)
 
 - 📫 How to reach me **divyanshumaurya99@gmail.com**
+
 <img align="right" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="Gif">
 
-<br>
+
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzdm&show_icons=true&locale=en&layout=compact"
 alt="itzdm" /></p>
