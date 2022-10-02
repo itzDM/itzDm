@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **divyanshumaurya99@gmail.com**
 
-<img align="right" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="Gif">
 
 
 
@@ -25,6 +24,9 @@ alt="itzdm" /></p>
 <p>&nbsp;<img align="center"
 src="https://github-readme-stats.vercel.app/api?username=itzdm&show_icons=true&locale=en" alt="itzdm" />
 </p>
+
+<img align="right" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="Gif">
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
