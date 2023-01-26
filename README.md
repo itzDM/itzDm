@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **E-Commerce Website Using MERN Stack**
+- 🔭 I’m currently working on **An ML Project**
 
-- 🌱 I’m currently learning **Deep Learning, MERN, React Native, Flutter**
+- 🌱 I’m currently learning **Deep Learning,React Native, Flutter**
 
 - 👨‍💻 All of my projects are available at
 [https://dmprtfolio.herokuapp.com/](https://dmprtfolio.herokuapp.com/)
