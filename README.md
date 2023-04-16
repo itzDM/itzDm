@@ -8,10 +8,7 @@
 
 - 🔭 I’m currently working on **An ML Project**
 
-- 🌱 I’m currently learning **Deep Learning,React Native, Flutter**
-
-- 👨‍💻 All of my projects are available at
-[https://dmprtfolio.herokuapp.com/](https://dmprtfolio.herokuapp.com/)
+- 🌱 I’m currently learning **Deep Learning,React Native**
 
 - 📫 How to reach me **divyanshumaurya99@gmail.com**
 
