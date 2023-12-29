@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **An ML Project**
+- 🔭 I’m currently working on **An Web Project**
 
-- 🌱 I’m currently learning **Deep Learning,React Native**
+- 🌱 I’m currently expending ** Js and It's library ** knowledge 
 
 - 📫 How to reach me **divyanshumaurya99@gmail.com**
 
