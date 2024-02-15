@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **An Web Project**
 
-- 🌱 I’m currently expending ** Js and It's library ** knowledge 
+- 🌱 I’m currently expending <strong>Js and It's library </strong> knowledge 
 
 - 📫 How to reach me **divyanshumaurya99@gmail.com**
 
