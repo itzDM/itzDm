@@ -20,7 +20,7 @@ alt="itzdm" /></p>
 
 <img align="right" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="Gif">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Tech Stack:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/"
 target="_blank" rel="noreferrer"> 
