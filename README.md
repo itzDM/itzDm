@@ -10,7 +10,7 @@
 
 - 🌱 Currently expending <strong>Js and It's library </strong> knowledge 
 
-- 📫 How to reach me **divyanshumaurya99@gmail.com**
+
 
 
 
