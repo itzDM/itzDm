@@ -25,22 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzdm&theme=radical" alt="GitHub Streak" />
-</p>
-
-
-
----
-
-### 📈 Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itzdm&theme=tokyo-night" />
-</p>
-
----
 
 ### 🛠️ Tech Stack
 
